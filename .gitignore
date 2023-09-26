@@ -2,6 +2,7 @@
 
 .eggs/
 .mypy_cache
+.pypirc
 *.egg-info/
 build/
 dist/
