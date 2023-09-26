@@ -1,5 +1,5 @@
 [build-system]
-requires = ["setuptools", "wheel"]
+requires = ["setuptools", "wheel", "Cython"]
 build-backend = "setuptools.build_meta"
 
 [project]
@@ -15,11 +15,13 @@ classifiers = [
     "Topic :: Scientific/Engineering :: Artificial Intelligence",
 ]
 authors = [
-    {name = "Allen Institute for Artificial Intelligence", email = "contact@allenai.org"}
+    {name = "Lvxiaowei Xu", email = "xlxw@zju.edu.cn"},
+    {name = "Zhiling Gong", email = "zhilingong@zju.edu.cn"},
+    {name = "Tianxiang Wang", email = "wang_tx@zju.edu.cn"}
 ]
 requires-python = ">=3.8"
 dependencies = [
-  # Add your own dependencies here
+  "numpy"
 ]
 license = {file = "LICENSE"}
 
