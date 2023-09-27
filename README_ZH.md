@@ -3,7 +3,7 @@
 <a href="http://www.repostatus.org/#active"><img src="http://www.repostatus.org/badges/latest/active.svg" /></a>
 <a href="https://github.com/xlxwalex/HyCxG/blob/main/LICENSE"><img alt="GitHub" src="https://img.shields.io/github/license/xlxwalex/PatternPiece.svg"> </a>
 
-[**English**](https://github.com/xlxwalex/PatternPiece/tree/main/PatternPiece/) | [**简体中文**](https://github.com/xlxwalex/PatternPiece/tree/main/PatternPiece/README_ZH.md)
+[**English**](https://github.com/xlxwalex/PatternPiece/tree/main/PatternPiece/) | [**简体中文**](https://github.com/xlxwalex/PatternPiece/blob/master/README_ZH.md)
 
 ***PatternPiece*** 是一个扩展的、轻量级的 Aho-Corasick 序列多模式、多元素匹配算法库，作为匹配方法的初步设计。
 

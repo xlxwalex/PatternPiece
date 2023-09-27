@@ -3,7 +3,7 @@
 <a href="http://www.repostatus.org/#active"><img src="http://www.repostatus.org/badges/latest/active.svg" /></a>
 <a href="https://github.com/xlxwalex/HyCxG/blob/main/LICENSE"><img alt="GitHub" src="https://img.shields.io/github/license/xlxwalex/PatternPiece.svg"> </a>
 
-[**English**](https://github.com/xlxwalex/PatternPiece/tree/main/PatternPiece/) | [**简体中文**](https://github.com/xlxwalex/PatternPiece/tree/main/PatternPiece/README_ZH.md)
+[**English**](https://github.com/xlxwalex/PatternPiece/tree/main/PatternPiece/) | [**简体中文**](https://github.com/xlxwalex/PatternPiece/blob/master/README_ZH.md)
 
 ***PatternPiece*** is a extended, lightweight Aho-Corasick sequence multi-pattern, multi-element matching algorithm library, serving as the initial design for the matching method.
 
