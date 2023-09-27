@@ -1,1 +1,9 @@
-../../CHANGELOG.md
+Changelog
+============
+
+## Version 1.0.0 - First Stable Release
+
+### Added
+- Initial stable release of the `patternpiece` package.
+- Implemented the basic functionality for multi-pattern, multi-element piece matching.
+

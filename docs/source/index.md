@@ -1,12 +1,22 @@
-# **patternpiece**
+<meta http-equiv="refresh" content="0;url=overview.html" />
+
+# ** **
 
 ```{toctree}
 :maxdepth: 2
 :hidden:
 :caption: Getting started
 
-installation
 overview
+installation
+```
+
+```{toctree}
+:maxdepth: 2
+:hidden:
+:caption: Python Api
+
+api
 ```
 
 ```{toctree}
@@ -15,13 +25,6 @@ overview
 
 CHANGELOG
 CONTRIBUTING
-License <https://raw.githubusercontent.com/allenai/PatternPiece/main/LICENSE>
-GitHub Repository <https://github.com/xlxw/PatternPiece>
-```
-
-## Indices and tables
-
-```{eval-rst}
-* :ref:`genindex`
-* :ref:`modindex`
+License <https://github.com/xlxwalex/PatternPiece/blob/master/LICENSE>
+GitHub Repository <https://github.com/xlxwalex/PatternPiece>
 ```

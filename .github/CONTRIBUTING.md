@@ -6,10 +6,10 @@ Thanks for considering contributing! Please read this document to learn the vari
 
 ### Did you find a bug?
 
-First, do [a quick search](https://github.com/xlxw/PatternPiece/issues) to see whether your issue has already been reported.
+First, do [a quick search](https://github.com/xlxwalex/PatternPiece/issues) to see whether your issue has already been reported.
 If your issue has already been reported, please comment on the existing issue.
 
-Otherwise, open [a new GitHub issue](https://github.com/xlxw/PatternPiece/issues).  Be sure to include a clear title
+Otherwise, open [a new GitHub issue](https://github.com/xlxwalex/PatternPiece/issues).  Be sure to include a clear title
 and description.  The description should include as much relevant information as possible.  The description should
 explain how to reproduce the erroneous behavior as well as the behavior you expect to see.  Ideally you would include a
 code sample or an executable test case demonstrating the expected behavior.
@@ -21,7 +21,7 @@ We use GitHub issues to track feature requests. Before you create a feature requ
 * Make sure you have a clear idea of the enhancement you would like. If you have a vague idea, consider discussing
 it first on a GitHub issue.
 * Check the documentation to make sure your feature does not already exist.
-* Do [a quick search](https://github.com/xlxw/PatternPiece/issues) to see whether your feature has already been suggested.
+* Do [a quick search](https://github.com/xlxwalex/PatternPiece/issues) to see whether your feature has already been suggested.
 
 When creating your request, please:
 
@@ -137,7 +137,7 @@ When you're ready to contribute code to address an open issue, please follow the
 
         mypy .
 
-    We also strive to maintain high test coverage, so most contributions should include additions to [the unit tests](https://github.com/xlxw/PatternPiece/tree/main/tests). These tests are run with [`pytest`](https://docs.pytest.org/en/latest/), which you can use to locally run any test modules that you've added or changed.
+    We also strive to maintain high test coverage, so most contributions should include additions to [the unit tests](https://github.com/xlxwalex/PatternPiece/tree/main/tests). These tests are run with [`pytest`](https://docs.pytest.org/en/latest/), which you can use to locally run any test modules that you've added or changed.
 
     For example, if you've fixed a bug in `patternpiece/a/b.py`, you can run the tests specific to that module with
 
@@ -152,9 +152,9 @@ When you're ready to contribute code to address an open issue, please follow the
 
     If the build fails, it's most likely due to small formatting issues. If the error message isn't clear, feel free to comment on this in your pull request.
 
-    And finally, please update the [CHANGELOG](https://github.com/xlxw/PatternPiece/blob/main/CHANGELOG.md) with notes on your contribution in the "Unreleased" section at the top.
+    And finally, please update the [CHANGELOG](https://github.com/xlxwalex/PatternPiece/blob/master/CHANGELOG.md) with notes on your contribution in the "Unreleased" section at the top.
 
-    After all of the above checks have passed, you can now open [a new GitHub pull request](https://github.com/xlxw/PatternPiece/pulls).
+    After all of the above checks have passed, you can now open [a new GitHub pull request](https://github.com/xlxwalex/PatternPiece/pulls).
     Make sure you have a clear description of the problem and the solution, and include a link to relevant issues.
 
     We look forward to reviewing your PR!

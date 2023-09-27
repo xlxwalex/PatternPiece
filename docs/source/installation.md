@@ -13,10 +13,10 @@ pip install patternpiece
 
 ## Installing from source
 
-To install **patternpiece** from source, first clone [the repository](https://github.com/xlxw/PatternPiece):
+To install **patternpiece** from source, first clone [the repository](https://github.com/xlxwalex/PatternPiece):
 
 ```bash
-git clone https://github.com/xlxw/PatternPiece.git
+git clone https://github.com/xlxwalex/PatternPiece.git
 cd PatternPiece
 ```
 
