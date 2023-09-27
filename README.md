@@ -16,6 +16,8 @@ You can fetch PatternPiece from:
 + GitHub https://github.com/xlxwalex/PatternPiece
 + Pypi https://pypi.python.org/pypi/patternpiece/
 
+The **documentation** is published at https://patternpiece.readthedocs.io/en/latest/
+
 ## Quick start
 This module is written in Cython. You need a C compiler installed to compile native extensions. In addition, due to the requirements for parallel computing, you also need to have [`OpenMP`](https://www.openmp.org/resources/openmp-compilers-tools/) installed. To install:
 ```bash

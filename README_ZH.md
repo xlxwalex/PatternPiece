@@ -16,6 +16,8 @@
 + GitHub https://github.com/xlxwalex/PatternPiece
 + Pypi https://pypi.python.org/pypi/patternpiece/
 
+Patternpiece**文档** https://patternpiece.readthedocs.io/en/latest/
+
 ## 快速开始
 此模块是用Cython编写的。您需要安装C编译器来编译原生扩展。此外，由于需要进行并行计算，您还需要安装[`OpenMP`](https://www.openmp.org/resources/openmp-compilers-tools/)。安装方法：
 ```bash
