@@ -2,6 +2,7 @@
 
 <a href="http://www.repostatus.org/#active"><img src="http://www.repostatus.org/badges/latest/active.svg" /></a>
 <a href="https://github.com/xlxwalex/HyCxG/blob/main/LICENSE"><img alt="GitHub" src="https://img.shields.io/github/license/xlxwalex/PatternPiece.svg"> </a>
+[![Documentation Status](https://readthedocs.org/projects/patternpiece/badge/?version=latest)](https://patternpiece.readthedocs.io/en/latest/?badge=latest)
 
 [**English**](https://github.com/xlxwalex/PatternPiece/tree/main/PatternPiece/) | [**简体中文**](https://github.com/xlxwalex/PatternPiece/blob/master/README_ZH.md)
 
