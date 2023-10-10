@@ -244,11 +244,13 @@ cdef class ACMatcherMemory:
         if arrays == NULL or sequence_results == NULL:
             raise MemoryError("Unable to allocate memory")
 
+        array_list = []
         for i in range(num_sequences):
             arr = np.ascontiguousarray(sequences[i], dtype=np.int32)
             arrays[i].data = &arr[0, 0]
             arrays[i].rows = arr.shape[0]
             arrays[i].cols = arr.shape[1]
+            array_list.append(arr)
 
         for i in prange(num_sequences, nogil=True, num_threads=num_workers):
             data = arrays[i].data
@@ -447,11 +449,13 @@ cdef class ACMatcherSpeed:
         if arrays == NULL or sequence_results == NULL:
             raise MemoryError("Unable to allocate memory")
 
+        array_list = []
         for i in range(num_sequences):
             arr = np.ascontiguousarray(sequences[i], dtype=np.int32)
             arrays[i].data = &arr[0, 0]
             arrays[i].rows = arr.shape[0]
             arrays[i].cols = arr.shape[1]
+            array_list.append(arr)
 
         for i in prange(num_sequences, nogil=True, num_threads=num_workers):
             data = arrays[i].data

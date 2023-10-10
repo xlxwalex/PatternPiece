@@ -28,7 +28,7 @@ License <https://github.com/xlxwalex/PatternPiece/blob/master/LICENSE>
 GitHub Repository <https://github.com/xlxwalex/PatternPiece>
 ```
 
-## PatternPiece V1.0.0
+## PatternPiece V1.0.1
  The `patternpiece` package is an versatile Python software library designed to facilitate multi-pattern and multi-element sequence matching through the implementation of the Aho-Corasick (AC) automaton in Cython. This package serves as a preliminary tool for users and developers seeking efficient and accurate pattern matching solutions in large sequences of data.
 
 ## Indices and tables
